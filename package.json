@@ -1,6 +1,6 @@
 {
   "name": "mailer-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This mailing application package created to send mails using javascript",
   "main": "index.js",
   "scripts": {
@@ -33,5 +33,6 @@
   "homepage": "https://github.com/Katheesh/MailerJS#readme",
   "dependencies": {
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "devDependencies": {}
 }
