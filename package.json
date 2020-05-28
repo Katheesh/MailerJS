@@ -1,0 +1,37 @@
+{
+  "name": "mailer-js",
+  "version": "1.0.0",
+  "description": "This mailing application package created to send mails using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katheesh/MailerJS.git"
+  },
+  "keywords": [
+    "mailing",
+    "cli",
+    "js",
+    "vue",
+    "static",
+    "api",
+    "html",
+    "page",
+    "http",
+    "react",
+    "mailer",
+    "mail",
+    "api_mail"
+  ],
+  "author": "S. Katheeskumar (GitLeaf)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Katheesh/MailerJS/issues"
+  },
+  "homepage": "https://github.com/Katheesh/MailerJS#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
