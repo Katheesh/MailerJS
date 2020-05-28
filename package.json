@@ -1,5 +1,5 @@
 {
-  "name": "mailer-js",
+  "name": "@katheesh/mailer-js",
   "version": "1.0.1",
   "description": "This mailing application package created to send mails using javascript",
   "main": "index.js",
