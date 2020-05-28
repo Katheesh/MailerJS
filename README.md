@@ -14,11 +14,11 @@
 #### Install using npm
 ```bash
 # install it via npm
-npm install mailer-js --save
+npm install @katheesh/mailer-js --save
 
 OR
 
-npm i mailer-js
+npm i @katheesh/mailer-js
 ```
 
 <hr>
