@@ -46,7 +46,8 @@ var Data =
     "from":"no-replay@domain.com",
     "subject": "Sample Mail from mailer-js",
     "title": "Sample Mail from mailer-js",
-    "body"  : "Hello there, I'm Katheeskumar. I love coding and proud to present this open source application"
+    "body"  : "Hello there, I'm Katheeskumar. 
+                I love coding and proud to present this open source application"
 }
 //  Html / Plaintext mailing
 console.log(Mailer.prepare(Data)) // i'ts return json format
@@ -60,7 +61,7 @@ console.log(Mailer.prepareMarkdown(Data)) // i'ts return json format
 
 ```typescript
 
-import * as Mailer from 'vue-mailer';
+import * as Mailer from 'mailer-js';
 
 var Data = 
 {
@@ -68,7 +69,8 @@ var Data =
     "from":"no-replay@domain.com",
     "subject": "Sample Mail from mailer-js",
     "title": "Sample Mail from mailer-js",
-    "body"  : "Hello there, I'm Katheeskumar. I love coding and proud to present this open source application"
+    "body"  : "Hello there, I'm Katheeskumar. 
+                I love coding and proud to present this open source application"
 }
 
 Mailer.prepare(Data); // print and return json response. 
