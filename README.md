@@ -53,26 +53,7 @@ console.log(Mailer.prepareMarkdown(Data)) // i'ts return json format
 
 ```
 
-#### TypeScript
 
-```typescript
-
-import * as Mailer from 'mailer-js';
-
-var Data = 
-{
-    "to": "your-email@sample.com",
-    "from":"no-replay@domain.com",
-    "subject": "Sample Mail from mailer-js",
-    "title": "Sample Mail from mailer-js",
-    "body"  : "Hello there, I'm Katheeskumar. 
-                I love coding and proud to present this open source application"
-}
-
-Mailer.prepare(Data); // print and return json response. 
-
-
-```
 
 ## Browser Support
 
